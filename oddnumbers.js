@@ -11,6 +11,7 @@ var myArray = [];
 // Only change code below this line.
 
 
+
 // Example
 var ourArray = [];
 
@@ -21,11 +22,14 @@ for (var i = 0; i < 10; i += 2) {
 // Setup
 var myArray = [];
 
-for (var i = 1; i < 9; i += 1) {
-  ourArray.push(i);
-}
+
 
 // Only change code below this line.
+
+
+for (var i = 1; i < 10; i += 2) {
+  myArray.push(i);
+}
 
 
 
